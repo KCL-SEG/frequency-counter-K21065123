@@ -5,7 +5,7 @@ def frequencies(items):
     frequencies = {}
     
     if len(items) ==0:
-         return items
+         return frequencies
     
     else:
 
